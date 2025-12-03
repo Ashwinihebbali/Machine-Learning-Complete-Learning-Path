@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 
-This repository documents my comprehensive Machine Learning learning journey, progressing from foundational concepts to advanced model development. Through hands-on implementations with real-world datasets, it emphasizes key skills like data preprocessing, exploratory data analysis (EDA), feature engineering, and a wide array of machine learning algorithms. Whether you're a beginner dipping your toes into ML or an intermediate learner seeking structured practice, this repo serves as a practical guide to building robust ML workflows.
+This repository documents my comprehensive Machine Learning journey, progressing from foundational concepts to advanced model development. Through hands-on implementations with real-world datasets, it emphasizes key skills like data preprocessing, exploratory data analysis (EDA), feature engineering, and a wide array of machine learning algorithms. Whether you're a beginner dipping your toes into ML or an intermediate learner seeking structured practice, this repo serves as a practical guide to building robust ML workflows.
 
 ## Overview
 The primary goal of this repository is to cultivate strong, practical Machine Learning skills by methodically covering every major stage of the ML pipeline. This structured path ensures a smooth transition from beginner-level data handling to advanced model deployment and interpretation, all while using accessible, real-world datasets (e.g., from Kaggle or UCI ML Repository).
@@ -30,7 +30,6 @@ By completing this learning path, you'll gain proficiency in:
 | **05_Classification_Models** | Classify data with supervised algorithms. | Decision Trees, SVM, Confusion Matrix, F1-Score. |
 | **06_Clustering_and_Patterns** | Discover hidden structures in data. | K-Means, Hierarchical Clustering, Silhouette Score. |
 | **07_Simple_Recommendation_System** | Implement collaborative filtering basics. | User-item matrices, cosine similarity. |
-| **08_Visualization-Driven_Insights** | Use plots to interpret and communicate results. | Seaborn advanced viz, model comparison dashboards. |
 
 ## Tools and Technologies
 - **Language**: Python 3.8+
