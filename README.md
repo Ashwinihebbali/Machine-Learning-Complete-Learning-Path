@@ -55,17 +55,6 @@ Exciting expansions on the horizon:
 - **Deployment Pipelines**: End-to-end ML with Streamlit, Docker, or AWS SageMaker.
 - **Advanced Case Studies**: Time-series forecasting, anomaly detection, and ensemble methods.
 
-Contributions to these are especially welcome!
-
-## Contributing
-Your input is invaluable! To contribute:
-1. Fork the repo and create a feature branch (`git checkout -b feature/amazing-feature`).
-2. Commit changes (`git commit -m 'Add amazing feature'`).
-3. Push to the branch (`git push origin feature/amazing-feature`).
-4. Open a Pull Request, and I'll review it promptly.
-
-Please adhere to PEP 8 style guidelines and include tests where applicable. Issues and feature requests are also appreciated—let's collaborate to make this the go-to ML learning resource!
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
