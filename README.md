@@ -1,6 +1,6 @@
 # Machine Learning – Structured Learning Path (Beginner to Advanced)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Python  Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 
 This repository documents are my comprehensive Machine Learning journey, progressing from foundational concepts to advanced model development. Through hands-on implementations with real-world datasets, it emphasizes key skills like data preprocessing, exploratory data analysis (EDA), feature engineering, and a wide array of machine learning algorithms. Whether you're a beginner dipping your toes into ML or an intermediate learner seeking structured practice, this repo serves as a practical guide to building robust ML workflows.
 
